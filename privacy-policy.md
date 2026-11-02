@@ -1,6 +1,6 @@
 # Privacy Policy for Wacky Garpo
 
-**Last updated: September 28, 2026**
+**Last updated: November 2, 2026**
 
 This Privacy Policy explains how Wacky Garpo ("the Game", "we", "us", or "our") handles information when you use the Wacky Garpo mobile game.
 
@@ -64,6 +64,15 @@ Where required by applicable law, Wacky Garpo may ask for your consent before ce
 In regions where consent requirements apply, you may be provided with options to consent, decline consent, or manage your privacy choices.
 
 You may also be able to change or withdraw certain consent choices through privacy options made available in the Game, where required.
+### App Tracking Transparency (iOS)
+
+On iOS devices, Wacky Garpo may request your permission to track your activity across apps and websites owned by other companies, in accordance with Apple's App Tracking Transparency framework.
+
+You can choose whether to allow or deny tracking. If you deny permission, you can continue playing Wacky Garpo. Advertisements may still be displayed, but advertising personalization and measurement may be limited.
+
+You can review or change your tracking permission through your device's Settings, where available.
+
+Wacky Garpo will not access the advertising identifier (IDFA) or engage in tracking that requires permission under Apple's App Tracking Transparency framework unless the required permission has been granted.
 
 ## 5. Data Sharing
 
